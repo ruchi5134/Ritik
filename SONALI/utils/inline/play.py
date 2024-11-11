@@ -77,7 +77,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
       [
             InlineKeyboardButton(
-                text="✰ 𝖡ᴧ፝֠֩ʙꭎ ✰", url="https://t.me/JANU_SONA",
+                text="✰ 𝖡ᴧ፝֠֩ʙꭎ ✰", url="https://t.me/ZANU_SONA",
             ),
             InlineKeyboardButton(
                 text="✰ 𝛅ᴏ፝֠֩𝛈ᴧ ✰", url="https://t.me/BHANNAT_STUDY",
@@ -100,7 +100,7 @@ def stream_markup(_, videoid, chat_id):
          ],
         [
             InlineKeyboardButton(
-                text="✰ 𝖡ᴧ፝֠֩ʙꭎ ✰", url="https://t.me/JANU_SONA",
+                text="✰ 𝖡ᴧ፝֠֩ʙꭎ ✰", url="https://t.me/ZANU_SONA",
             ),
             InlineKeyboardButton(
                 text="✰ 𝛅ᴏ፝֠֩𝛈ᴧ ✰", url="https://t.me/BHANNAT_STUDY",
